@@ -1,6 +1,6 @@
 # User API Spec
 
-## Resgister User API
+## Register User API
 
 Endpoint : POST /api/users
 
